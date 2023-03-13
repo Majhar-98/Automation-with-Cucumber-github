@@ -31,4 +31,8 @@ Here are some reasons why Cucumber is a good choice for automation testing:
 ## Prerequisites:
 - Install Intellij IDEA (Comunity Edition)
 - Install jdk or any LTS version
-- Configure ANDROID_HOME, JAVA_HOME and GRADLE_HOME Stable internet connection
+- Configure ANDROID_HOME, JAVA_HOME and GRADLE_HOME as well as stable internet connection
+
+## Report:
+![cucumber](https://user-images.githubusercontent.com/123467715/224605002-52ceaa09-42b1-46ec-ba48-135249b1cdaa.PNG)
+
